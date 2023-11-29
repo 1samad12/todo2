@@ -1,0 +1,99 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.h1{
+    font-weight: bolder;
+    color: seashell;
+    background-color: crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 1%;
+    font-size: xx-large;
+    font-style: italic ;
+}
+
+.inp{
+    font-style: italic;
+    font-size: xx-large;
+    justify-content: center;
+    margin-left: 31%;
+    padding: 1%;
+    border-radius: 30px;
+    text-decoration: double;
+    width: 280px;
+    height: 4vh;
+    border: none;
+    outline: none;
+    border: 2px solid crimson;
+    
+    
+    
+}
+#tna{
+    font-style: italic;
+    font-size: x-large;
+    background-color: crimson;
+    padding: 1%;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    border: 2px solid crimson;
+   
+    
+}
+.lib{
+    margin-top: 20px;
+    list-style: decimal;
+    font-size: 23px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+text-align: center;
+    
+}
+
+.eb{
+    width: 120px;
+    height: 6vh;
+    border: none;
+    outline: none;
+    background-color: crimson;
+    color: #fff;
+    border-radius: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+.db{
+    width: 120px;
+    height: 6vh;
+    border: none;
+    outline: none;
+    background-color: crimson;
+    color: #fff;
+    border-radius: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ul{
+    
+    
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 20px;
+}
+#dltAll{
+    font-style: italic;
+    font-size: x-large;
+    background-color: crimson;
+    padding: 1%;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    border: 2px solid crimson;
+    
+}
